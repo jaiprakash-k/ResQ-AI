@@ -1,0 +1,5 @@
+{
+  "name": "ResQ-AI",
+  "description": "A high-performance, single-file disaster management simulation with a sci-fi HUD. Features autonomous agent pathfinding, hazard simulation (fire, flood), and real-time analytics.",
+  "requestFramePermissions": []
+}
